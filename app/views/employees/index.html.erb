@@ -1,0 +1,9 @@
+<p style="color: green"><%= notice %></p>
+
+<h1>Employees</h1>
+
+<div id="employees">
+  <% @employees.each do |employee| %>
+    <%= render employee %>
+  <% end %>
+</div>
