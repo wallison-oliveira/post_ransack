@@ -1,0 +1,17 @@
+en:
+  activerecord:
+    models:
+      employee:
+        one: Employee
+        other: Employees
+    attributes:
+      employee:
+        id: ID
+        name: Name
+        email: Email
+        age: Age
+        street: Street
+        house_number: Number
+        neighborhood: Neighborhood
+        city: City
+        state: State

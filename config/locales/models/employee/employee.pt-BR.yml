@@ -1,0 +1,17 @@
+pt-BR:
+  activerecord:
+    models:
+      employee:
+        one: Empregado
+        other: Empregados
+    attributes:
+      employee:
+        id: ID
+        name: Nome
+        email: E-mail
+        age: Idade
+        street: Rua
+        house_number: Número
+        neighborhood: Bairro
+        city: Cidade
+        state: Estado
