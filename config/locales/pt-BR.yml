@@ -29,6 +29,6 @@
 # To learn more, please read the Rails Internationalization guide
 # available at https://guides.rubyonrails.org/i18n.html.
 
-en:
+pt-BR:
   english_html: '&#127482;&#127480; English'
   portuguese_html: '&#127463;&#127479; Português'
